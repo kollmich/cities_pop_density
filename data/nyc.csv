@@ -1,0 +1,60 @@
+cb,Area,Population_2010,pop_density,Neighborhoods,boro_cd
+Bronx CB 1,7.17,91497,12761,"Melrose, Mott Haven, Port Morris",201
+Bronx CB 2,5.54,52246,9792,"Hunts Point, Longwood",202
+Bronx CB 3,4.07,79762,19598,"Claremont, Concourse Village, Crotona Park, Morrisania",203
+Bronx CB 4,5.28,146441,27735,"Concourse, Highbridge",204
+Bronx CB 5,3.55,128200,36145,"Fordham, Morris Heights, Mount Hope, University Heights",205
+Bronx CB 6,4.01,83268,20765,"Bathgate, Belmont, East Tremont, West Farms",206
+Bronx CB 7,4.84,139286,28778,"Bedford Park, Norwood, University Heights",207
+Bronx CB 8,8.83,101731,11521,"Fieldston, Kingsbridge, Kingsbridge Heights, Marble Hill, Riverdale, Spuyten Duyvil, Van Cortlandt Village",208
+Bronx CB 9,12.41,172298,13884,"Bronx River, Bruckner, Castle Hill, Clason Point, Harding Park, Parkchester, Soundview, Unionport",209
+Bronx CB 10,16.76,120392,7183,"City Island, Co-op City, Locust Point, Pelham Bay, Silver Beach, Throgs Neck, Westchester Square",210
+Bronx CB 11,9.32,113232,12149,"Allerton, Bronxdale, Indian Village, Laconia, Morris Park, Pelham Gardens, Pelham Parkway, Van Nest",311
+Bronx CB 12,14.56,152344,10463,"Baychester, Edenwald, Eastchester, Fish Bay, Olinville, Wakefield, Williamsbridge, Woodlawn Heights",312
+Brooklyn CB 1,12.82,160338,12507,"Greenpoint, Williamsburg, Williamsburg Houses",301
+Brooklyn CB 2,7.72,98620,12775,"Boerum Hill, Brooklyn Heights, Brooklyn Navy Yard, Clinton Hill, Dumbo, Fort Greene, Fulton Ferry, Fulton Mall, Vinegar Hill",302
+Brooklyn CB 3,7.67,143867,18757,"Bedford-Stuyvesant, Ocean Hill, Stuyvesant Heights",303
+Brooklyn CB 4,5.31,104358,19653,Bushwick,304
+Brooklyn CB 5,14.61,173198,11855,"City Line, Cypress Hills, East New York, Highland Park, New Lots, Starrett City",305
+Brooklyn CB 6,9.01,104054,11549,"Carroll Gardens, Cobble Hill, Gowanus, Park Slope, Red Hook",306
+Brooklyn CB 7,10.96,120063,10955,"Greenwood Heights, Sunset Park, Windsor Terrace",307
+Brooklyn CB 8,4.25,96076,22606,"Crown Heights, Prospect Heights, Weeksville",308
+Brooklyn CB 9,4.07,104014,25556,"Crown Heights, Prospect Lefferts Gardens, Wingate",309
+Brooklyn CB 10,10.57,122542,11593,"Bay Ridge, Dyker Heights, Fort Hamilton",310
+Brooklyn CB 11,10.18,172129,16909,"Bath Beach, Bensonhurst, Gravesend, Mapleton",311
+Brooklyn CB 12,9.32,185046,19855,"Borough Park, Kensington, Midwood, Ocean Parkway",312
+Brooklyn CB 13,8.88,106120,11950,"Bensonhurst, Brighton Beach, Coney Island, Gravesend, Sea Gate",313
+Brooklyn CB 14,7.61,168806,22182,"Flatbush, Kensington, Midwood, Ocean Parkway",314
+Brooklyn CB 15,12.82,160319,12505,"East Gravesend, Gerritsen Beach, Homecrest, Kings Bay, Kings Highway, Madison, Manhattan Beach, Plum Beach, Sheepshead Bay",315
+Brooklyn CB 16,4.97,85343,17172,"Brownsville, Ocean Hill",316
+Brooklyn CB 17,8.73,165753,18987,"Ditmas Village, East Flatbush, Erasmus, Farragut, Remsen Village, Rugby",317
+Brooklyn CB 18,24.68,194653,7887,"Bergen Beach, Canarsie, Flatlands, Georgetown, Marine Park, Mill Basin, Mill Island",318
+Manhattan CB 1,4.45,34420,7735,"Battery Park City, Financial District, Tribeca",101
+Manhattan CB 2,4.01,93119,23222,"Chinatown, Greenwich Village, Little Italy, Lower East Side, NoHo, SoHo, West Village",102
+Manhattan CB 3,4.56,164407,36054,"Alphabet City, Chinatown, East Village, Lower East Side, Two Bridges",103
+Manhattan CB 4,5.41,87479,16170,"Chelsea, Clinton, Hell's Kitchen, Hudson Yards",104
+Manhattan CB 5,4.25,44028,10360,Midtown,105
+Manhattan CB 6,3.55,136152,38353,"Gramercy Park, Kips Bay, Rose Hill, Murray Hill, Peter Cooper Village, Stuyvesant Town, Sutton Place, Tudor City, Turtle Bay, Waterside Plaza",106
+Manhattan CB 7,5.46,207699,38040,"Lincoln Square, Manhattan Valley, Upper West Side",107
+Manhattan CB 8,5.13,217063,42312,"Lenox Hill, Roosevelt Island, Upper East Side, Yorkville",108
+Manhattan CB 9,3.91,111724,28574,"Hamilton Heights, Manhattanville, Morningside Heights",109
+Manhattan CB 10,3.63,107109,29507,"Harlem, Polo Grounds",110
+Manhattan CB 11,5.75,117743,20477,"East Harlem, Randall's Island, Spanish Harlem, Wards Island",111
+Manhattan CB 12,7.64,208414,27279,"Inwood, Washington Heights",112
+Queens CB 1,14.97,211220,14110,"Astoria, Astoria Heights, Queensbridge, Dutch Kills, Long Island City, Ravenswood, Rikers Island, Steinway",401
+Queens CB 2,13.36,109920,8228,"Blissville, Hunters Point, Long Island City, Sunnyside, Sunnyside Gardens, Woodside",402
+Queens CB 3,7.33,169083,23067,"East Elmhurst, Jackson Heights, North Corona",403
+Queens CB 4,6.16,167005,27111,"Corona, Elmhurst",404
+Queens CB 5,19.63,165911,8452,"Fresh Pond, Glendale, Maspeth, Middle Village, Liberty Park, Ridgewood",405
+Queens CB 6,7.59,115967,15279,"Forest Hills, Rego Park",406
+Queens CB 7,32.97,242952,7369,"Bay Terrace, Beechhurst, College Point, Flushing, Linden Hill, Malba, Queensboro Hill, Whitestone, Willets Point",407
+Queens CB 8,19.17,146594,7647,"Briarwood, Fresh Meadows, Holliswood, Jamaica Estates, Kew Gardens Hills, Pomonok, Pomonok Houses, Utopia",408
+Queens CB 9,10.08,141608,14048,"Kew Gardens, Ozone Park, Richmond Hill, Woodhaven",409
+Queens CB 10,16.19,127274,7861,"Howard Beach, Lindenwood, Richmond Hill, South Ozone Park, Tudor Village",410
+Queens CB 11,24.99,116404,4658,"Auburndale, Bayside, Douglaston, East Flushing, Hollis Hills, Little Neck, Oakland Gardens",411
+Queens CB 12,25.46,223602,8782,"Baisley Park, Jamaica, Hollis, Rochdale Village, St. Albans, South Jamaica, Springfield Gardens",412
+Queens CB 13,33.31,196284,5893,"Bellerose, Brookville, Cambria Heights, Floral Park, Glen Oaks, Laurelton, Meadowmere, New Hyde Park, Queens Village, Rosedale",413
+Queens CB 14,23.28,106686,4583,"Arverne, Bayswater, Belle Harbor, Breezy Point, Edgemere, Far Rockaway, Neponsit, Rockaway Park, Seaside",414
+Staten Island CB 1,36.62,162609,4440,"Arlington, Castleton Corners, Clifton, Concord, Elm Park, Fort Wadsworth, Graniteville, Grymes Hill, Livingston, Mariners Harbor, Meiers Corners, New Brighton, Port Ivory, Port Richmond, Randall Manor, Rosebank, St. George, Shore Acres, Silver Lake, Stapleton, Sunnyside, Tompkinsville, West Brighton, Westerleigh",501
+Staten Island CB 2,54.62,127071,2326,"Arrochar, Bloomfield, Bulls Head, Chelsea, Dongan Hills, Egbertville, Emerson Hill, Grant City, Grasmere, Midland Beach, New Dorp, New Springville, Oakwood, Ocean Breeze, Old Town, South Beach, Todt Hill, Travis",502
+Staten Island CB 3,58.97,152908,2593,"Annadale, Arden Heights, Bay Terrace, Charleston, Eltingville, Great Kills, Greenridge, Huguenot, Pleasant Plains, Prince's Bay, Richmond Valley, Rossville, Tottenville, Woodrow",503
